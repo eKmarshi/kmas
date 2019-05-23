@@ -12,7 +12,7 @@ window.cookieconsent.initialise({
   },
   "theme": "classic",
   "content": {
-    "message": "KMARSHub is a plateform for learning, testing and traning of Tutorials, references and examples relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX, and XML. Therefore KMARSHub use cookies to improve your experience on our website. By browsing this website, you agree to our use of cookies.",
+    "message": "KMARSHub provide Templates and Tutorials relating to HTML, CSS, JavaScript, JSON, PHP, Python, AngularJS, SQL, Bootstrap, Node.js, jQuery, XQuery, AJAX, and XML. Therefore KMARSHub use cookies to improve your experience on our website. By browsing this website, you agree to our use of cookies.",
     "dismiss": "Accept",
     "link": "Read more",
     "href": "https://kmarshub.blogspot.com/2010/07/privacy-policy.html"
